@@ -1,0 +1,1 @@
+Select socios.cod_socio, pessoas.nome, pessoas.cpf, empresas.nome_empresa, socios.validade, socios.foto, socios.dependentes From pessoas Inner Join socios On pessoas.cod_pessoa = socios.socio Inner Join empresas On empresas.cod_empresa = socios.cod_empresa

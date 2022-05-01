@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<configuration date="2019/08/12" author="e.World Technology Ltd.">
+<project id="{31ECB1FF-BE34-4CC5-BF5C-0D3F1718C9D9}" file="F:\_Sites\sinthoresf.com.br\sistema_12-08-2019\Sinthoresf-3.pmp" name="Sinthoresf2D3" product="PHPMaker" version="11.0" datetime="2019/08/12 19:05:35" languagefolder="phplang" userlevel="">
+<table id="agenda" name="agenda" caption="agenda" userlevel="" priv="1"/>
+<table id="audittrail" name="audittrail" caption="audittrail" userlevel="" priv="1"/>
+<table id="config" name="config" caption="Configurações" userlevel="" priv="1"/>
+<table id="empresas" name="empresas" caption="Empresas" userlevel="" priv="1"/>
+<table id="funcionarios" name="funcionarios" caption="Funcionarios" userlevel="" priv="1"/>
+<table id="menus" name="menus" caption="menus" userlevel="" priv="1"/>
+<table id="permissoes" name="permissoes" caption="Permissões" userlevel="" priv="1"/>
+<table id="tbcounter" name="tbcounter" caption="tbcounter" userlevel="" priv="1"/>
+<table id="userlevelpermissions" name="userlevelpermissions" caption="userlevelpermissions" userlevel="" priv="1"/>
+<table id="userlevels" name="userlevels" caption="Funcionarios" userlevel="" priv="1"/>
+<table id="view_func" name="view_func" caption="view func" userlevel="" priv="1"/>
+<table id="rel_cart_clube_" name="rel_cart_clube_" caption="Cart Clube" userlevel="" priv="1"/>
+<table id="rel_cart_socio_" name="rel_cart_socio_" caption="Cart Sócio" userlevel="" priv="1"/>
+<table id="rel_ficha_cadastro_" name="rel_ficha_cadastro_" caption="Ficha Cadastral" userlevel="" priv="1"/>
+<table id="rel_convite_" name="rel_convite_" caption="Convite" userlevel="" priv="1"/>
+<table id="rel_recibo_" name="rel_recibo_" caption="Recibo" userlevel="" priv="1"/>
+<table id="view_recibo_empresa" name="view_recibo_empresa" caption="view recibo empresa" userlevel="" priv="1"/>
+<table id="rel_recibo_empresa_" name="rel_recibo_empresa_" caption="Recibos" userlevel="" priv="1"/>
+<table id="view_func_empresa" name="view_func_empresa" caption="view func empresa" userlevel="" priv="1"/>
+<table id="rel_func_empresas" name="rel_func_empresas" caption="Funcionários" userlevel="" priv="1"/>
+<table id="pessoas" name="pessoas" caption="Cadastro de Pessoas" userlevel="" priv="1"/>
+<table id="regioes" name="regioes" caption="Regiões" userlevel="" priv="1"/>
+<table id="estados" name="estados" caption="estados" userlevel="" priv="1"/>
+<table id="Empresa_Funcionarios" name="Empresa_Funcionarios" caption="Empresa Funcionarios" userlevel="" priv="1"/>
+<table id="view_empresa_funcionarios" name="view_empresa_funcionarios" caption="view empresa funcionarios" userlevel="" priv="1"/>
+<table id="rel_n_empresa_funcionarios" name="rel_n_empresa_funcionarios" caption="Funcionários da Empesa (n)" userlevel="" priv="1"/>
+<table id="view_esmpresas_regioes" name="view_esmpresas_regioes" caption="view esmpresas regioes" userlevel="" priv="1"/>
+<table id="rel_empresas_regioes_" name="rel_empresas_regioes_" caption="Listar Empresas" userlevel="" priv="1"/>
+<table id="socios" name="socios" caption="Sócios" userlevel="" priv="1"/>
+<table id="inicio_php" name="inicio.php" caption="Inicio" userlevel="" priv="1"/>
+<table id="view_carteira_socio" name="view_carteira_socio" caption="view carteira socio" userlevel="" priv="1"/>
+<table id="rel_carteira_socio_" name="rel_carteira_socio_" caption="Carteira do Sócio" userlevel="" priv="1"/>
+<table id="rel_carteira_clube_" name="rel_carteira_clube_" caption="Carteira do Clube" userlevel="" priv="1"/>
+<table id="view_ficha_funcionario" name="view_ficha_funcionario" caption="view ficha funcionario" userlevel="" priv="1"/>
+<table id="rel_ficha_cadastral_" name="rel_ficha_cadastral_" caption="Ficha Cadastral" userlevel="" priv="1"/>
+<table id="view_convite_festa" name="view_convite_festa" caption="view convite festa" userlevel="" priv="1"/>
+<table id="rel_convite_festa_" name="rel_convite_festa_" caption="Convite" userlevel="" priv="1"/>
+<table id="view_recibo_socio" name="view_recibo_socio" caption="view recibo socio" userlevel="" priv="1"/>
+<table id="rel_recibo_socio_" name="rel_recibo_socio_" caption="Recibo Mensal" userlevel="" priv="1"/>
+<table id="view_socios_a_vencer" name="view_socios_a_vencer" caption="Sócios 1 Mês" userlevel="" priv="1"/>
+<table id="view_socios_vencendo" name="view_socios_vencendo" caption="Socios Vencendo" userlevel="" priv="1"/>
+<table id="view_socios_recibo_empresa" name="view_socios_recibo_empresa" caption="view socios recibo empresa" userlevel="" priv="1"/>
+<table id="rel_socios_recibo_empresa_" name="rel_socios_recibo_empresa_" caption="Recibos (n)" userlevel="" priv="1"/>
+<table id="view_lista_funcionarios" name="view_lista_funcionarios" caption="view lista funcionarios" userlevel="" priv="1"/>
+<table id="rel_lista_funcionarios_" name="rel_lista_funcionarios_" caption="Funcionários da Empesa (n)" userlevel="" priv="1"/>
+<table id="view_lista_whatsapp" name="view_lista_whatsapp" caption="Lista WhatsApp" userlevel="" priv="1"/>
+</project></configuration>

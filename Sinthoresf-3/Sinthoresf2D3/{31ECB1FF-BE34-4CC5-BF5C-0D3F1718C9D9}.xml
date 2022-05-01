@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<configuration date="2015/07/29" author="e.World Technology Ltd.">
+<project id="{31ECB1FF-BE34-4CC5-BF5C-0D3F1718C9D9}" file="C:\Documents and Settings\Administrador\Meus documentos\PHPMaker\Projects\Sinthoresf-3.pmp" name="Sinthoresf2D3" product="PHPMaker" version="11.0" datetime="2015/07/29 16:36:05" languagefolder="phplang" userlevel="">
+<table id="agenda" name="agenda" caption="agenda" userlevel="" priv="1"/>
+<table id="audittrail" name="audittrail" caption="audittrail" userlevel="" priv="1"/>
+<table id="config" name="config" caption="Configurações" userlevel="" priv="1"/>
+<table id="empresas" name="empresas" caption="Empresas" userlevel="" priv="1"/>
+<table id="funcionarios" name="funcionarios" caption="Funcionarios" userlevel="" priv="1"/>
+<table id="menus" name="menus" caption="menus" userlevel="" priv="1"/>
+<table id="permissoes" name="permissoes" caption="Permissões" userlevel="" priv="1"/>
+<table id="tbcounter" name="tbcounter" caption="tbcounter" userlevel="" priv="1"/>
+<table id="userlevelpermissions" name="userlevelpermissions" caption="userlevelpermissions" userlevel="" priv="1"/>
+<table id="userlevels" name="userlevels" caption="Funcionarios" userlevel="" priv="1"/>
+<table id="view_func" name="view_func" caption="view func" userlevel="" priv="1"/>
+<table id="rel_cart_clube_" name="rel_cart_clube_" caption="Cart Clube" userlevel="" priv="1"/>
+<table id="rel_cart_socio_" name="rel_cart_socio_" caption="Cart Sócio" userlevel="" priv="1"/>
+<table id="rel_ficha_cadastro_" name="rel_ficha_cadastro_" caption="Ficha Cadastral" userlevel="" priv="1"/>
+<table id="rel_convite_" name="rel_convite_" caption="Convite" userlevel="" priv="1"/>
+<table id="rel_recibo_" name="rel_recibo_" caption="Recibo" userlevel="" priv="1"/>
+<table id="view_recibo_empresa" name="view_recibo_empresa" caption="view recibo empresa" userlevel="" priv="1"/>
+<table id="rel_recibo_empresa_" name="rel_recibo_empresa_" caption="Recibos" userlevel="" priv="1"/>
+<table id="view_func_empresa" name="view_func_empresa" caption="view func empresa" userlevel="" priv="1"/>
+<table id="rel_func_empresas" name="rel_func_empresas" caption="Funcionários" userlevel="" priv="1"/>
+</project></configuration>

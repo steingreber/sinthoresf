@@ -1,0 +1,1 @@
+Select empresas.nome_empresa, funcionarios.nome, funcionarios.ativo, config.A08NOME, config.valor_mensal, config.valor_extenso, empresas.cod_empresa From empresas Inner Join funcionarios On empresas.cod_empresa = funcionarios.cod_empresa, config Where funcionarios.ativo = 1 Order By funcionarios.nome

@@ -1,0 +1,1 @@
+Select funcionarios.cod_func, funcionarios.nome, funcionarios.cpf, empresas.cod_empresa, empresas.nome_empresa, empresas.endereco, config.A10PALAVRAS, funcionarios.ativo From funcionarios Inner Join empresas On funcionarios.cod_empresa = empresas.cod_empresa, config Where empresas.cod_empresa = 26 And funcionarios.ativo = 1 Order By funcionarios.nome
